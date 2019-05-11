@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="set_title">Введите описание</string>
+    <string name="notes">Заметки</string>
+    <string name="save">Сохранить</string>
+    <string name="remove">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="remove_title">Удаление</string>
+    <string name="remove_message">Вы уверены что хотите удалить заметку?</string>
+    <string name="completed_button">Завершить</string>
+    <string name="notification_title">Напоминание</string>
+    <string name="start_notification">start.notification</string>
+    <string name="statistics">Статистика</string>
+    <string name="count_of_day">Сегодня вы закрыли %1$d задач(-и)</string>
+    <string name="count_of_yesterday">Вчерашний день вы закрыли %1$d задач(-и)</string>
+    <string name="count_of_week">За эту неделю вы закрыли %1$d задач(-и)</string>
+</resources>
